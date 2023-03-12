@@ -171,7 +171,7 @@ Updates an instance based on the class name, id, and kwargs passed. Update the f
     </ul>
 </details>
 
-## How to add Author file
+## How to add Author file is as follows
 `Bash script for generating the list of authors in git repo`
 #!/bin/sh
 
